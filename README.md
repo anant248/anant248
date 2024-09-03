@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anant Goyal
 - 👀 I’m interested in programming, automation and creating!
-- 🌱 I’m currently learning the fundamentals of computer and electrical engineering
+- 🌱 I’m currently a **full stack developer** at Citi in Toronto
 - 💞️ I’m looking to collaborate on anything interesting!
 - 📫 Reach me at anantgoyal2000@gmail.com
 
